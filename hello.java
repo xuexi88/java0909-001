@@ -4,4 +4,7 @@ class   {
 		System.out.println("hello world");
 
 	}
+	public static void clean(){
+		System.out.println("你好世界");
+	}
 }
